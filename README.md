@@ -1,2 +1,1 @@
-# Java_Calculator
-I have created a Calculator in Java programming langauge, for Frontend designing I have used Java Swing and awt and logic is written in Java.
+I am thrilled to share that I have achieved a Top Performer Certificate in Java from Coding Ninjas. This certificate recognizes my in-depth understanding of the Java programming language, including its syntax, data structures, and OOPs Concept
