@@ -1,1 +1,1 @@
-I am thrilled to share that I have achieved a Top Performer Certificate in Java from Coding Ninjas. This certificate recognizes my in-depth understanding of the Java programming language, including its syntax, data structures, and OOPs Concept
+Developed a user-friendly Java calculator that performs essential mathematical operations, such as addition, subtraction, multiplication, division, and square root. Utilized Java Swing and AWT to create a clean and efficient design, simplifying computations for users 
